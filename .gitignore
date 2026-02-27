@@ -1,0 +1,14 @@
+# Ignore the environment folder
+myenv/
+venv/
+__pycache__/
+
+# Ignore Secret Keys (MOST IMPORTANT)
+.env
+
+# Ignore large model files (if you use Git LFS later)
+*.bin
+*.zip
+
+# Ignore local audio responses
+response.mp3
