@@ -28,11 +28,6 @@ To run this project on your local machine:
 Clone the repository:
 
 Bash
-git clone https://huggingface.co/spaces/anuj9984/Agri-Vision-AI
-cd Agri-Vision-AI
-Install dependencies:
-
-Bash
 pip install -r requirements.txt
 Set up Environment Variables:
 Create a .env file and add your OpenAI API Key:
@@ -56,10 +51,6 @@ Name: Anuj Soni
 Institution: IIIT Bhagalpur
 
 Department: Electronics and Communication Engineering (ECE)
-
-Academic Performance: 9.03 CGPA
-
-Projects: HOPEHUB (Malnutrition Prediction), AI PDF Assistant.
 
 ⚖️ License
 This project is licensed under the MIT License.
